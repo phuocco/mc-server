@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/template/header.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/welcome_message.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/admin/admin_home_page.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/Login.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/models/ItemModel.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/template/footer.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/assets/css/mycss.css</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/index.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/models/index.html</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/Spin.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/General.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/assets/js/myjs.js</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/admin/upload_items.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/index.html</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/MainHome.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/template/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/admin/verify_items.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/Welcome.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/Detail.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/assets/css/bootstrap-theme.css</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/News.php</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/views/index.html</file>
+            <file>file:/C:/xampp/htdocs/mine-craft-mods-sv/application/controllers/AdminHome.php</file>
+        </group>
+    </open-files>
+</project-private>
